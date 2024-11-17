@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <h1>Calculadora Científicaaaaaaaa</h1>
+    <h1>Calculadora Científica</h1>
     <div class="calculator">
       <input type="text" v-model="display" disabled />
       <div class="buttons">
